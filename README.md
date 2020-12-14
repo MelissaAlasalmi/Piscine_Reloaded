@@ -1,4 +1,6 @@
 # Piscine_Reloaded
+✅ Project score: 100/100 ✅  
+The Piscine Reloaded project is a "best-of" of sorts for the exercises done during the Piscine. It is the first project of the foundation studies at Hive. The intent is to use this project to learn the basics of the C programming language and the command line.
 
 ## Ex00 : Oh yeah, mooore...
 exo.tar contains the following files and directories, which must output the following exactly as it is when you use the ls -l command in the exo directory:
